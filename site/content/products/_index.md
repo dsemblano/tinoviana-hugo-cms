@@ -1,14 +1,49 @@
 ---
-title: Our Coffee
+title: Biografia
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: Sobre Tino Viana
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Consultor e facilitador na área de Desenvolvimento de Recursos Humanos com
+    30 anos de experiência em Integração, Liderança, Fortalecimento de Equipe,
+    Processos, Qualidade, Motivação, entre outros temas.
+
+
+    Palestrante sobre os mais diversos temas.
+
+
+    Psicólogo formado pela Universidade Tuiuti do Paraná.
+
+
+    Mestrado em Psicologia Social pela Université Paris VIII – França.
+
+
+    Especializado em Dinâmicas de Grupo pelo CCO – Centro de Estudos do Comportamento Organizacional.
+
+
+    Certificado pela KreativAktion Experiential Consulting Services (Meissen/Alemanha), em facilitação de Metodologia Experiencial.
+
+
+    Desenvolve e ministra Consultoria e Desenvolvimento de Talentos nos idiomas inglês, francês e português.
+
+
+    Professor em MBAs e Mestrado do ISAE / FGV – Instituto Superior de Administração e Economia – Fundação Getúlio Vargas em Curitiba e interior de 2007 a 2013.
+
+
+    Autor e diretor de esquetes teatrais organizacionais.
+
+
+    Dramaturgo, ator, diretor e produtor de teatro e ator de cinema.
+
+
+    Autor de textos técnicos e de livros de ficção. 
+
+
+    Alguns clientes: Desenvolveu trabalhos em empresas como: ROCA INCEPA, RESTAURANTE CANTINHO DA BICA, GEMALTO DO BRASIL, SIG COMBIBLOC, KRAFT FOODS BRAZIL, SEARA ALIMENTOS, BIG FRANGO, COPEL, NOVOZYMES, RENAULT DO BRASIL; NISSAN DO BRASIL, SEBRAE - PR e RS, HSBC, O BOTICÁRIO; GVT; AJL SOLUÇÕES EM CLIMATIZAÇÃO, AAM, NEOGRID, WALMART, WHIRPOOL; CARGIL, ESSO BRASILEIRA DE PETRÓLEO; CORREIOS; ELECTROLUX, entre outras.
+
+
+    ​
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
@@ -55,20 +90,17 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+    quote: Kaldi is the place to go if you want the best quality coffee. I love
+      their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  description: We make it easy to make great coffee a part of your life. Choose
+    one of our monthly subscription plans to receive great coffee at your
+    doorstep each month. Contact us about more details and payment info.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -76,21 +108,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: "50"
+    - description: Great for avid drinkers, java-nsoving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: "?"
 ---
-
-
