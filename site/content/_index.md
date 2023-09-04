@@ -13,21 +13,20 @@ intro:
     tradução, intérprete consecutivo, cursos de conversação inglês e francês,
     teatro-empresa, peças de teatro.
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/p1170017.webp
+    text: "-- (colocar H3) Temas trabalhados-: Liderança, Equipes, Integração,
+      Comunicação, Autorresponsabilização, Gestão da Mudança, Motivação, entre
+      outros."
+  - image: img/bosch-gsa-13-01-05-05_jpg.webp
+    text: "(colocar H3) Diferencial: Nosso diferencial está no desenvolvimento
+      prático dos temas abordados nos treinamentos, assim como em coaching e
+      mentoria."
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: "Lideração: a liderança na prática"
+  text: Programa de liderança que compreende duas fases em quatro módulos cada. Os
+    principais temas abordados são Autoconhecimento, Liderança, Equipes e
+    Gestão. Em parceria com Marcelo Karam Desenvolvimento Humano, os encontros
+    têm intervalos de uma a duas semanas, quando os participantes terão
+    oportunidade de colocar em prática os conteúdos abordados em sala para
+    debate no módulo seguinte.
 ---
