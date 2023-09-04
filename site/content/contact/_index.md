@@ -1,6 +1,6 @@
 ---
 title: Contato
-logo: /img/logo.svg
+logo: img/screenshot_20230904_102708.png
 contact_entries:
   - heading: Endereço
     text: R. Desembargador Motta, 3456/14 - CEP 80430-232 - Curitiba/PR
