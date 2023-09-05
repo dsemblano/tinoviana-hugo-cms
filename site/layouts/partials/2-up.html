@@ -6,7 +6,8 @@
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
       <div class="ph2-ns w-50-ns">
-        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+        <img src="{{.image}}" alt="" class="center db mb3 br-100" style="width: 18em; height: 18em;">
+        <h3>{{.subtitle}}</h3>
         <p>{{.text}}</p>
       </div>
       {{ end }}
