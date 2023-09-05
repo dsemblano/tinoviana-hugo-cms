@@ -14,13 +14,13 @@ intro:
     teatro-empresa, peças de teatro.
 products:
   - image: img/p1170017.webp
-    text: "-- (colocar H3) Temas trabalhados-: Liderança, Equipes, Integração,
-      Comunicação, Autorresponsabilização, Gestão da Mudança, Motivação, entre
-      outros."
+    text: Liderança, Equipes, Integração, Comunicação, Autorresponsabilização,
+      Gestão da Mudança, Motivação, entre outros.
+    subtitle: "Temas trabalhados:"
   - image: img/bosch-gsa-13-01-05-05_jpg.webp
-    text: "(colocar H3) Diferencial: Nosso diferencial está no desenvolvimento
-      prático dos temas abordados nos treinamentos, assim como em coaching e
-      mentoria."
+    text: Nosso diferencial está no desenvolvimento prático dos temas abordados nos
+      treinamentos, assim como em coaching e mentoria.
+    subtitle: "Diferencial:"
 values:
   heading: "Lideração: a liderança na prática"
   text: Programa de liderança que compreende duas fases em quatro módulos cada. Os
