@@ -1,3 +1,6 @@
+# when using the default proxy server port
+local_backend: true
+
 backend:
   name: git-gateway
   branch: main
@@ -33,6 +36,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Products", name: products, widget: list, fields: [
+              {label: Subtitle, name: subtitle, widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Values", name: "values", widget: "object", fields: [
