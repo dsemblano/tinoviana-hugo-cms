@@ -1,7 +1,7 @@
 ---
 title: Tino Viana
 subtitle: consultoria & produções
-image: img/115925541_10214860510024773_3577751291335295010_n.jpg
+image: img/350084065_632399555417439_2927169325839424898_n.jpg
 blurb:
   heading: Quem somos
   text: Em atividade desde 2003, a Tino Viana Consultoria & Produções, sediada em
