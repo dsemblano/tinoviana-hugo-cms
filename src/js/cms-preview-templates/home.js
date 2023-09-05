@@ -25,6 +25,7 @@ export default class HomePreview extends React.Component {
           <div className="flex-ns mhn2-ns mb3">
             {(entry.getIn(["data", "products"]) || []).map((product, i) => <div className="ph2-ns w-50-ns" key={i}>
               <img src={getAsset(product.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
+              <h3>{product.get("subtitle")}</h3>
               <p>{product.get("text")}</p>
             </div>)}
           </div>
