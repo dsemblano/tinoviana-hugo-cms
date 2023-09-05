@@ -1,77 +1,32 @@
 ---
-title: Biografia
+title: Produtos
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: Sobre Tino Viana
-  description: >-
-    Consultor e facilitador na área de Desenvolvimento de Recursos Humanos com
-    30 anos de experiência em Integração, Liderança, Fortalecimento de Equipe,
-    Processos, Qualidade, Motivação, entre outros temas.
-
-
-    Palestrante sobre os mais diversos temas.
-
-
-    Psicólogo formado pela Universidade Tuiuti do Paraná.
-
-
-    Mestrado em Psicologia Social pela Université Paris VIII – França.
-
-
-    Especializado em Dinâmicas de Grupo pelo CCO – Centro de Estudos do Comportamento Organizacional.
-
-
-    Certificado pela KreativAktion Experiential Consulting Services (Meissen/Alemanha), em facilitação de Metodologia Experiencial.
-
-
-    Desenvolve e ministra Consultoria e Desenvolvimento de Talentos nos idiomas inglês, francês e português.
-
-
-    Professor em MBAs e Mestrado do ISAE / FGV – Instituto Superior de Administração e Economia – Fundação Getúlio Vargas em Curitiba e interior de 2007 a 2013.
-
-
-    Autor e diretor de esquetes teatrais organizacionais.
-
-
-    Dramaturgo, ator, diretor e produtor de teatro e ator de cinema.
-
-
-    Autor de textos técnicos e de livros de ficção. 
-
-
-    Alguns clientes: Desenvolveu trabalhos em empresas como: ROCA INCEPA, RESTAURANTE CANTINHO DA BICA, GEMALTO DO BRASIL, SIG COMBIBLOC, KRAFT FOODS BRAZIL, SEARA ALIMENTOS, BIG FRANGO, COPEL, NOVOZYMES, RENAULT DO BRASIL; NISSAN DO BRASIL, SEBRAE - PR e RS, HSBC, O BOTICÁRIO; GVT; AJL SOLUÇÕES EM CLIMATIZAÇÃO, AAM, NEOGRID, WALMART, WHIRPOOL; CARGIL, ESSO BRASILEIRA DE PETRÓLEO; CORREIOS; ELECTROLUX, entre outras.
-
-
-    ​
+  heading: Nossos produtos
+  description: Atuamos com treinamentos e desenvolvimento, palestras, coaching,
+    mentoria, tradução, intérprete consecutivo, cursos de conversação inglês e
+    francês, teatro-empresa, peças de teatro.
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: img/p1170017.webp
+      text: "TEMAS TRABALHADOS: Liderança, Equipes, Integração, Comunicação,
+        Autorresponsabilização, Gestão da Mudança, Motivação, entre outros."
+    - image: img/photo-60096.webp
+      text: "DIFERENCIAL: Nosso diferencial está no desenvolvimento prático dos temas
+        abordados nos treinamentos, assim como em coaching e mentoria."
+    - image: img/bosch-gsa-13-01-05-05_jpg.webp
+      text: "LIDERAÇÃO – A LIDERANÇA NA PRÁTICA: Programa de liderança que compreende
+        duas fases em quatro módulos cada. Os principais temas abordados são
+        Autoconhecimento, Liderança, Equipes e Gestão. Em parceria com Marcelo
+        Karam Desenvolvimento Humano, os encontros têm intervalos de uma a duas
+        semanas, quando os participantes terão oportunidade de colocar em
+        prática os conteúdos abordados em sala para debate no módulo seguinte."
+    - image: img/evitando_naufrã¡gio_01.webp
+      text: "(criar uma página nova? )A LIDERANÇA NA PRÁTICA: Favorecer a aprendizagem
+        e o desenvolvimento das competências e atitudes (pessoais e
+        interpessoais) essenciais para fazer a gestão de pessoas, assim como
+        para buscar a otimização de processos de trabalho e alcançar novos
+        patamares de performance."
 main:
   heading: Great coffee with no compromises
   description: >
@@ -81,26 +36,22 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/teia-corporativa-planejamento-02_jpg.webp
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/p1010028.webp
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/foxdoor-mud_eq-08-01-2005-02.webp
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: autor 1
+    quote: Testemonials procurar
+  - author: autor 2
+    quote: Testemonials procurar 2
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Planos mentoria?
+  description: descrição planoi
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
